@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialApp", "SocialApp\SocialApp.csproj", "{E3DDEBB4-0991-4F5C-A90C-E9B4B213C0D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalityTypeApplication", "C:\Users\Utilizator\Downloads\Personality no 1\PersonalityTypeApplication\PersonalityTypeApplication.csproj", "{49EC36D8-A2DC-4F98-95D3-2E153A6D4442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3DDEBB4-0991-4F5C-A90C-E9B4B213C0D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3DDEBB4-0991-4F5C-A90C-E9B4B213C0D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3DDEBB4-0991-4F5C-A90C-E9B4B213C0D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3DDEBB4-0991-4F5C-A90C-E9B4B213C0D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49EC36D8-A2DC-4F98-95D3-2E153A6D4442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49EC36D8-A2DC-4F98-95D3-2E153A6D4442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49EC36D8-A2DC-4F98-95D3-2E153A6D4442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49EC36D8-A2DC-4F98-95D3-2E153A6D4442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E0A0A19-7B92-4568-91BF-B95037C6BD4F}
+	EndGlobalSection
+EndGlobal
